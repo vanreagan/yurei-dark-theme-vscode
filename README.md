@@ -33,10 +33,7 @@ Perfect for halloween lovers or goths, I guess.
 
 ## For more information
 
-* [Vanreagan's Github Page](http://code.visualstudio.com/docs/languages/markdown)
+* [Vanreagan's Github Page](https://github.com/vanreagan)
+* [Theme's Repo](https://github.com/vanreagan/yurei-dark-theme-vscode) 
 * Created using [Theme Studio for VS Code](https://themes.vscode.one/)
 * Extension package created using [Yeoman](https://yeoman.io/)
-
-
-
-
