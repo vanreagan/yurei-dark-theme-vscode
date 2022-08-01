@@ -1,0 +1,22 @@
+{
+  "name": "yurei-dark-theme",
+  "displayName": "Yurei Dark Theme",
+  "description": "A dark theme with low saturated colors with indigo accents, created by vanreagan",
+  "version": "0.1.0",
+	"publisher": "vanreagan",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yurei Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yurei-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
