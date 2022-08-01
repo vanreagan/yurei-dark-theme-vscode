@@ -5,6 +5,7 @@
 	"icon": "https://raw.githubusercontent.com/vanreagan/yurei-dark-theme-vscode/main/yurei-icon.png",
   "version": "0.1.0",
 	"publisher": "vanreagan",
+	"repository": "https://github.com/vanreagan/yurei-dark-theme-vscode",
   "engines": {
     "vscode": "^1.69.0"
   },
