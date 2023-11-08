@@ -3,7 +3,7 @@
   "displayName": "Yurei Dark Theme",
   "description": "A dark theme with low saturated colors with indigo accents, created by vanreagan",
 	"icon": "yurei-icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
 	"publisher": "vanreagan",
 	"repository": "https://github.com/vanreagan/yurei-dark-theme-vscode",
   "engines": {

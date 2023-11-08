@@ -6,17 +6,25 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ---
 
+## **0.1.1**
+
+## **Changed**
+
+* Changed icon.
+
 ## **0.1.0**
 
-#### **Changed**
+### **Changed**
+
 * Some colors are now less saturated for an optimal view on the almost-black background.
 * Lowered saturation on select git decorations.
 
-#### **Added**
+### **Added**
+
 * Added a proper README.md
 
 ---
 
 ## **0.0.1**
 
-- Initial release
+* Initial release
