@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ---
 
+## **1.0.0**
+
+### **Changed**
+
+* Changed colors on status bar, activity bar, widgets, notifications, diff highlights, terminal text.
+
+---
+
 ## **0.1.1**
 
 ### **Changed**
