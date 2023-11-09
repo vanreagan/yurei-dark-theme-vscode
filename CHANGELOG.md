@@ -8,9 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## **0.1.1**
 
-## **Changed**
+### **Changed**
 
 * Changed icon.
+
+---
 
 ## **0.1.0**
 

@@ -1,7 +1,7 @@
 {
   "name": "yurei-dark-theme",
   "displayName": "Yurei Dark Theme",
-  "description": "A dark theme with low saturated colors with indigo accents, created by vanreagan",
+  "description": "A dark theme with low saturated colors with indigo accents.",
 	"icon": "yurei-icon.png",
   "version": "0.1.1",
 	"publisher": "vanreagan",
