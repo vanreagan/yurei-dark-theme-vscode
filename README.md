@@ -15,11 +15,11 @@ As the previous line implies, this is an stealth dark theme with indigo accents.
 
 ## Preview
 
-![Main view](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-main.jpeg)
+![Main view](https://raw.githubusercontent.com/vanreagan/yurei-dark-theme-vscode/main/yurei-main.jpeg)
 
-![Command palette](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-commandPalette.jpeg)
+![Command palette](https://raw.githubusercontent.com/vanreagan/yurei-dark-theme-vscode/main/yurei-commandPalette.jpeg)
 
-![Terminal](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-terminal.jpeg)
+![Terminal](https://raw.githubusercontent.com/vanreagan/yurei-dark-theme-vscode/main/yurei-terminal.jpeg)
 
 ## Random trivia
 
