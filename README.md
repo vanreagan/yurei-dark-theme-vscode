@@ -13,6 +13,14 @@ As the previous line implies, this is an stealth dark theme with indigo accents.
 * Perfect for coding to coldwave music
 * Spooky
 
+## Preview
+
+![Main view](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-main.jpeg)
+
+![Command palette](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-commandPalette.jpeg)
+
+![Terminal](https://github.com/vanreagan/yurei-dark-theme/blob/master/yurei-terminal.jpeg)
+
 ## Random trivia
 
 Technicaly the name of the theme should be *Yūrei*, but I went with Yurei to prevent weird ascii errors.
